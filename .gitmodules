@@ -1,0 +1,6 @@
+[submodule "probability-inference-cheatsheet"]
+	path = probability-inference-cheatsheet
+	url = https://github.com/MarwiVex/probability-inference-cheatsheet.git
+[submodule "differential-equations-cheatsheet"]
+	path = differential-equations-cheatsheet
+	url = https://github.com/MarwiVex/differential-equations-cheatsheet.git
