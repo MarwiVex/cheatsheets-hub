@@ -8,7 +8,7 @@ This repository serves as a central hub for a collection of quick-reference math
 
 Each guide below is an independent repository containing both English and Spanish versions, along with their respective LaTeX source codes.
 
-### 📚 The Collection
+### The Collection
 
 * [**Probability and Statistical Inference**](./probability-inference-cheatsheet)
     Covers everything from basic combinatorics and Kolmogorov Axioms to advanced stochastic processes, Markov Chains, and Bayesian inference.
@@ -24,7 +24,7 @@ Este repositorio funciona como el índice de una colección de formularios de ma
 
 Cada guía listada a continuación es un repositorio independiente que contiene versiones en inglés y español, así como su código fuente en LaTeX.
 
-### 📚 La Colección
+### La Colección
 
 * [**Probabilidad e Inferencia Estadística**](./probability-inference-cheatsheet)
     Abarca desde fundamentos de conteo y Axiomas de Kolmogorov hasta procesos estocásticos, Cadenas de Markov e inferencia bayesiana.
