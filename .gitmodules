@@ -4,3 +4,9 @@
 [submodule "differential-equations-cheatsheet"]
 	path = differential-equations-cheatsheet
 	url = https://github.com/MarwiVex/differential-equations-cheatsheet.git
+[submodule "numerical-methods-cheatsheet"]
+	path = numerical-methods-cheatsheet
+	url = https://github.com/MarwiVex/numerical-methods-cheatsheet
+[submodule "vector-calculus-cheatsheet"]
+	path = vector-calculus-cheatsheet
+	url = https://github.com/MarwiVex/vector-calculus-cheatsheet
