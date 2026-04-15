@@ -10,13 +10,13 @@ Each guide below is an independent repository containing both English and Spanis
 
 ### The Collection
 
-* [**Probability and Statistical Inference**](./probability-inference-cheatsheet)
+* [**Probability and Statistical Inference**](https://github.com/MarwiVex/probability-inference-cheatsheet)
     Covers everything from basic combinatorics and Kolmogorov Axioms to advanced stochastic processes, Markov Chains, and Bayesian inference.
-* [**Ordinary Differential Equations (ODEs)**](./differential-equations-cheatsheet)
+* [**Ordinary Differential Equations (ODEs)**](https://github.com/MarwiVex/differential-equations-cheatsheet)
     A quick reference for identifying and solving various types of differential equations, including first/second-order techniques, systems, and Laplace Transforms.
-* [**Numerical Methods and Scientific Computing**](./numerical-methods-cheatsheet)
+* [**Numerical Methods and Scientific Computing**](https://github.com/MarwiVex/numerical-methods-cheatsheet)
     A unified reference covering everything from computer arithmetic (IEEE 754) and root finding to advanced techniques for ODEs/PDEs, matrix algebra, and interpolation.
-* [**Vector Calculus and Tensor Algebra**](./vector-calculus-cheatsheet)
+* [**Vector Calculus and Tensor Algebra**](https://github.com/MarwiVex/vector-calculus-cheatsheet)
     Covers vector algebra, tensor notation (Einstein summation), differential geometry (Frenet-Serret), and fundamental integral theorems like Green, Stokes, and Gauss.
 
 *(More topics will be added as they are developed)*
@@ -30,13 +30,13 @@ Cada guía listada a continuación es un repositorio independiente que contiene 
 
 ### La Colección
 
-* [**Probabilidad e Inferencia Estadística**](./probability-inference-cheatsheet)
+* [**Probabilidad e Inferencia Estadística**](https://github.com/MarwiVex/probability-inference-cheatsheet)
     Abarca desde fundamentos de conteo y Axiomas de Kolmogorov hasta procesos estocásticos, Cadenas de Markov e inferencia bayesiana.
-* [**Ecuaciones Diferenciales Ordinarias (EDO)**](./differential-equations-cheatsheet)
+* [**Ecuaciones Diferenciales Ordinarias (EDO)**](https://github.com/MarwiVex/differential-equations-cheatsheet)
     Guía de referencia rápida para identificar y resolver diversos tipos de ecuaciones, incluyendo técnicas de primer y segundo orden, sistemas y Transformadas de Laplace.
-* [**Métodos Numéricos y Cálculo Científico**](./numerical-methods-cheatsheet)
+* [**Métodos Numéricos y Cálculo Científico**](https://github.com/MarwiVex/numerical-methods-cheatsheet)
     Referencia unificada que abarca desde aritmética computacional (IEEE 754) y búsqueda de raíces hasta técnicas avanzadas para EDO/EDP, álgebra matricial e interpolación.
-* [**Cálculo Vectorial y Álgebra Tensorial**](./vector-calculus-cheatsheet)
+* [**Cálculo Vectorial y Álgebra Tensorial**](https://github.com/MarwiVex/vector-calculus-cheatsheet)
     Incluye álgebra vectorial, notación tensorial (suma de Einstein), geometría diferencial (Frenet-Serret) y los teoremas integrales fundamentales de Green, Stokes y Gauss.
   
 *(Se añadirán nuevos temas a medida que se desarrollen)*
