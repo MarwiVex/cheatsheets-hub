@@ -14,6 +14,10 @@ Each guide below is an independent repository containing both English and Spanis
     Covers everything from basic combinatorics and Kolmogorov Axioms to advanced stochastic processes, Markov Chains, and Bayesian inference.
 * [**Ordinary Differential Equations (ODEs)**](./differential-equations-cheatsheet)
     A quick reference for identifying and solving various types of differential equations, including first/second-order techniques, systems, and Laplace Transforms.
+* [**Numerical Methods and Scientific Computing**](./numerical-methods-cheatsheet)
+    A unified reference covering everything from computer arithmetic (IEEE 754) and root finding to advanced techniques for ODEs/PDEs, matrix algebra, and interpolation.
+* [**Vector Calculus and Tensor Algebra**](./vector-calculus-cheatsheet)
+    Covers vector algebra, tensor notation (Einstein summation), differential geometry (Frenet-Serret), and fundamental integral theorems like Green, Stokes, and Gauss.
 
 *(More topics will be added as they are developed)*
 
@@ -30,7 +34,11 @@ Cada guía listada a continuación es un repositorio independiente que contiene 
     Abarca desde fundamentos de conteo y Axiomas de Kolmogorov hasta procesos estocásticos, Cadenas de Markov e inferencia bayesiana.
 * [**Ecuaciones Diferenciales Ordinarias (EDO)**](./differential-equations-cheatsheet)
     Guía de referencia rápida para identificar y resolver diversos tipos de ecuaciones, incluyendo técnicas de primer y segundo orden, sistemas y Transformadas de Laplace.
-
+* [**Métodos Numéricos y Cálculo Científico**](./numerical-methods-cheatsheet)
+    Referencia unificada que abarca desde aritmética computacional (IEEE 754) y búsqueda de raíces hasta técnicas avanzadas para EDO/EDP, álgebra matricial e interpolación.
+* [**Cálculo Vectorial y Álgebra Tensorial**](./vector-calculus-cheatsheet)
+    Incluye álgebra vectorial, notación tensorial (suma de Einstein), geometría diferencial (Frenet-Serret) y los teoremas integrales fundamentales de Green, Stokes y Gauss.
+  
 *(Se añadirán nuevos temas a medida que se desarrollen)*
 
 ---
