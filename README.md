@@ -18,7 +18,9 @@ Each guide below is an independent repository containing both English and Spanis
     A unified reference covering everything from computer arithmetic (IEEE 754) and root finding to advanced techniques for ODEs/PDEs, matrix algebra, and interpolation.
 * [**Vector Calculus and Tensor Algebra**](https://github.com/MarwiVex/vector-calculus-cheatsheet)
     Covers vector algebra, tensor notation (Einstein summation), differential geometry (Frenet-Serret), and fundamental integral theorems like Green, Stokes, and Gauss.
-
+* [**Analytical Geometry**](./analytical-geometry-cheatsheet)
+    A comprehensive 2D and 3D reference. It covers Cartesian fundamentals, conic sections (ellipse, parabola, hyperbola), vectors in $\mathbb{R}^3$, quadric surfaces, and geometric transformations using matrices and homogeneous coordinates.
+  
 *(More topics will be added as they are developed)*
 
 ---
@@ -38,7 +40,9 @@ Cada guía listada a continuación es un repositorio independiente que contiene 
     Referencia unificada que abarca desde aritmética computacional (IEEE 754) y búsqueda de raíces hasta técnicas avanzadas para EDO/EDP, álgebra matricial e interpolación.
 * [**Cálculo Vectorial y Álgebra Tensorial**](https://github.com/MarwiVex/vector-calculus-cheatsheet)
     Incluye álgebra vectorial, notación tensorial (suma de Einstein), geometría diferencial (Frenet-Serret) y los teoremas integrales fundamentales de Green, Stokes y Gauss.
-  
+* [**Geometría Analítica**](./analytical-geometry-cheatsheet)
+    Una referencia exhaustiva en 2D y 3D. Abarca fundamentos cartesianos, secciones cónicas (elipse, parábola, hipérbola), vectores en $\mathbb{R}^3$, superficies cuádricas y transformaciones geométricas mediante matrices y coordenadas homogénea.
+    
 *(Se añadirán nuevos temas a medida que se desarrollen)*
 
 ---
