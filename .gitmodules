@@ -10,3 +10,6 @@
 [submodule "vector-calculus-cheatsheet"]
 	path = vector-calculus-cheatsheet
 	url = https://github.com/MarwiVex/vector-calculus-cheatsheet
+[submodule "analytical-geometry-cheatsheet"]
+	path = analytical-geometry-cheatsheet
+	url = https://github.com/MarwiVex/analytical-geometry-cheatsheet.git
