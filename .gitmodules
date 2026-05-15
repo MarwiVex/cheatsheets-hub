@@ -13,3 +13,6 @@
 [submodule "analytical-geometry-cheatsheet"]
 	path = analytical-geometry-cheatsheet
 	url = https://github.com/MarwiVex/analytical-geometry-cheatsheet.git
+[submodule "linear-algebra-cheatsheet"]
+	path = linear-algebra-cheatsheet
+	url = https://github.com/MarwiVex/linear-algebra-cheatsheet.git
